@@ -13,7 +13,7 @@ Physics M.Sc. student at KIT. I work on machine learning for magnetic materials:
 
 [Cluster Tunnel for VS Code](https://marketplace.visualstudio.com/items?itemName=AiMatGroup.cluster-tunnel) shows your Slurm jobs across all your clusters inside VS Code. It builds on [ctun](https://github.com/aimat-lab/cluster-tunnel), which I also contribute to.
 
-<img src="https://raw.githubusercontent.com/aimat-lab/cluster-tunnel-vscode/main/docs/images/jobs-table.png" alt="Cluster Tunnel for VS Code: Slurm jobs from two clusters grouped by project" width="100%">
+<img src="https://raw.githubusercontent.com/aimat-lab/cluster-tunnel-vscode/main/docs/images/overview.gif" alt="Cluster Tunnel for VS Code: Slurm jobs across clusters, job details and agent notes" width="100%">
 
 ### Incanto
 
