@@ -2,7 +2,7 @@
 
 Physics M.Sc. student at KIT. I work on generative machine learning for inverse design of magnetic materials: generating crystal structures with property-conditioned symmetry-aware Bayesian Flow Networks, and computing exchange couplings and Curie/Néel temperatures with high-throughput DFT.
 
-[LinkedIn](https://www.linkedin.com/in/luca-frey-2b8b11293/)
+<a href="https://www.linkedin.com/in/luca-frey-2b8b11293/"><img src="assets/linkedin.svg" alt="LinkedIn" width="16" height="16"></a>&nbsp; [LinkedIn](https://www.linkedin.com/in/luca-frey-2b8b11293/)
 
 ### Open source
 
