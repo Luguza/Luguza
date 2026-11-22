@@ -2,6 +2,8 @@
 
 Physics M.Sc. student at KIT. I work on generative machine learning for inverse design of magnetic materials: generating crystal structures with property-conditioned symmetry-aware Bayesian Flow Networks, and computing exchange couplings and Curie/Néel temperatures with high-throughput DFT.
 
+[LinkedIn](https://www.linkedin.com/in/luca-frey-2b8b11293/)
+
 ### Open source
 
 - **atomate2** [#1528](https://github.com/materialsproject/atomate2/pull/1528) (in review): exchange workflow that fits Heisenberg J<sub>ij</sub> to the DFT energies of magnetic orderings and runs VAMPIRE Monte Carlo to obtain critical temperatures. Resolves [#1404](https://github.com/materialsproject/atomate2/issues/1404).
